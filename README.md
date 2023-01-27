@@ -17,8 +17,9 @@
 
 ### Contact with me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/abdullah-t%C3%BCt%C3%BCnc%C3%BC-800634205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcesur" height="30" width="40" /></a>
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br/>
 <br/>
